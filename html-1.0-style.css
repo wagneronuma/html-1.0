@@ -8,7 +8,6 @@ body {
   background-color: #232323;
   color: #cccccc;
   font-family: "JetBrains Mono", monospace;
-  font-size: 20px;
 }
 
 h1 {
@@ -24,7 +23,7 @@ h1 {
   margin: 13px;
 }
 p {
-  margin: 20px;
+  margin: 18px;
 }
 .div1 {
   background-color: #009d44;
